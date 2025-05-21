@@ -43,14 +43,6 @@ Me chamo Roberte Paixão, tenho 22 anos e sou natural do Rio Grande do Norte. Co
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Next.js" 
     title="Next.js"
     width="30px" 
@@ -64,8 +56,6 @@ Me chamo Roberte Paixão, tenho 22 anos e sou natural do Rio Grande do Norte. Co
     width="30px" 
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" 
-/>
-    
 />
 <img 
     align="left" 
@@ -82,8 +72,6 @@ Me chamo Roberte Paixão, tenho 22 anos e sou natural do Rio Grande do Norte. Co
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-
 />
 <img 
     align="left" 
